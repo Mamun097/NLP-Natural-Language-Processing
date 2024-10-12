@@ -31,14 +31,14 @@ You can explore these concepts individually in the provided notebooks.
 This project involves building a machine learning model to classify emails as spam or not. The classifier is trained using natural language processing techniques such as tokenization, stemming, and TF-IDF.
 
 - **Folder**: `Spam_Classifier/`
-- **Description**: Check out the detailed [README](./Spam-classifier/README.md) in the project folder for a full breakdown.
+- **Description**: Check out the detailed [README](https://github.com/Mamun097/NLP-Natural-Language-Processing/tree/main/Spam-Classifier) in the project folder for a full breakdown.
 
 ### <a name="sentiment-analyzer"></a>2.  Sentiment Analyzer
 
 The sentiment analyzer project classifies text into positive, negative, or neutral sentiment using various NLP techniques.
 
 - **Folder**: `Sentiment_Analyzer/`
-- **Description**: Full details are available in the project's [README](./sentiment-analysis/README.md).
+- **Description**: Full details are available in the project's [README](https://github.com/Mamun097/NLP-Natural-Language-Processing/tree/main/Sentiment-Analysis).
 
 ## <a name="getting-started"></a>🚀 Getting Started
 
